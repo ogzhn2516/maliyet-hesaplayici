@@ -1,0 +1,23 @@
+
+> trendyol-karlilik-hesaplayici@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.12:3000
+✓ Ready in 444ms
+Creating turbopack project { dir: 'C:\\Users\\okaba\\Desktop\\maliyet', testMode: true }
+
+ GET / 200 in 2.3s (next.js: 2.0s, application-code: 261ms)
+✓ Compiled in 337ms
+ GET / 200 in 200ms (next.js: 121ms, application-code: 79ms)
+✓ Compiled in 199ms
+ GET / 200 in 119ms (next.js: 5ms, application-code: 114ms)
+✓ Compiled in 54ms
+ GET / 200 in 82ms (next.js: 52ms, application-code: 30ms)
+✓ Compiled in 407ms
+ GET / 200 in 129ms (next.js: 92ms, application-code: 37ms)
+ GET / 200 in 28ms (next.js: 3ms, application-code: 24ms)
+✓ Compiled in 119ms
+ GET / 200 in 82ms (next.js: 42ms, application-code: 40ms)
+ GET / 200 in 114ms (next.js: 3ms, application-code: 111ms)
