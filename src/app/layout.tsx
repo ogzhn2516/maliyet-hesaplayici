@@ -2,29 +2,31 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Trendyol Karlılık Hesaplayıcı",
+  title: "Maliyet Hesaplayıcı — 3D Baskı & Trendyol Karlılık",
   description:
-    "Trendyol komisyonu, kargo, KDV ve ürün maliyetini hesaplayarak net kazancını öğren.",
-  applicationName: "Trendyol Karlılık Hesaplayıcı",
+    "3D yazıcı filament maliyeti, elektrik, işçilik ve paketleme giderlerini hesapla. Trendyol komisyonu, KDV ve kargo dahil net kazancını öğren.",
+  applicationName: "Maliyet Hesaplayıcı",
   keywords: [
+    "3D baskı maliyet hesaplayıcı",
+    "filament maliyet hesaplama",
     "Trendyol karlılık hesaplayıcı",
     "Trendyol komisyon hesaplama",
     "e-ticaret kar hesaplama",
-    "Trendyol kar marjı",
+    "3D yazıcı maliyet",
   ],
   openGraph: {
-    title: "Trendyol Karlılık Hesaplayıcı",
+    title: "Maliyet Hesaplayıcı — 3D Baskı & Trendyol Karlılık",
     description:
-      "Trendyol komisyonu, kargo, KDV ve ürün maliyetini hesaplayarak net kazancını öğren.",
-    siteName: "Trendyol Karlılık Hesaplayıcı",
+      "3D yazıcı filament maliyeti, elektrik, işçilik ve paketleme giderlerini hesapla. Trendyol komisyonu, KDV ve kargo dahil net kazancını öğren.",
+    siteName: "Maliyet Hesaplayıcı",
     locale: "tr_TR",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Trendyol Karlılık Hesaplayıcı",
+    title: "Maliyet Hesaplayıcı — 3D Baskı & Trendyol Karlılık",
     description:
-      "Trendyol komisyonu, kargo, KDV ve ürün maliyetini hesaplayarak net kazancını öğren.",
+      "3D yazıcı filament maliyeti, elektrik, işçilik ve paketleme giderlerini hesapla. Trendyol komisyonu, KDV ve kargo dahil net kazancını öğren.",
   },
 };
 
